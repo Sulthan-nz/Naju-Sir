@@ -6,7 +6,7 @@
 
 <div align="center">
 
-## [![Naju-Sir](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+Naju-Sir+WA+Bot+repo;Created+by+Naju+Arju;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
+## [![Naju-Sir](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+Naju-Sir+WA+Bot+repo;Created+by+Naju+and+Arju;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
 
  </a>
 </p>
