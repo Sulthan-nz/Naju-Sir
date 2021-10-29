@@ -1,5 +1,5 @@
 
-<a href="https://img.shields.io/badge/Sulthan-nz"><img src="https://fontmeme.com/permalink/211029/1929543206f924691ec6734013bc7128.png" alt="google-font" border="0"></a>
+<a href="https://img.shields.io/badge/Sulthan-nz"><img src="https://fontmeme.com/permalink/211029/4b42895fd31e02e18dc5444d977b22fe.png" alt="google-font" border="0"></a>
 <div align="center">
         <img src="Sulthan-nz.jpg" width="250" height="200"/>
 </p>
