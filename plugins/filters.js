@@ -91,7 +91,7 @@ await message.client.sendMessage(message.jid, fs.readFileSync('./Amalserv2/menti
 await message.client.sendMessage(message.jid, fs.readFileSync('Amalserv2/mention.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID, quoted : message.data, ptt: true})
         }
         var uri = encodeURI(match[1])
-const array = [   ]
+const array = ['Aliyanmaar.mp3','Ayyo.mp3','Bigfan.mp3','Bgm.mp3','Chill.mp3','Chunk.mp3','Da.mp3','Dj.mp3','Don.mp3','Eghineirkn.mp3','Endhuparayana.mp3','Hlo.mp3','Jabbarkka.mp3','Jinn.mp3','killadi.mp3','King.mp3','Kozhi.mp3','Kunne.mp3','Kuttaa.mp3','Lo.mp3','Mention.mp3','Mood.mp3','Music.mp3','Nirthi.mp3','Njanund.mp3','Ok.mp3','Oompi.mp3','Ottaka.mp3','Patti.mp3','Poda.mp3','Polikka.mp3','poori.mp3','Power.mp3','Ppa.mp3','rip.mp3','Sed.mp3','Seen.mp3','Settakitharo.mp3','Show.mp3','Tentacion.mp3','Thalavoli.mp3','vannu.mp3','Xxxtentacion.mp3']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
