@@ -68,7 +68,7 @@ Click WA logo to Join Support Group 👇
 
   ### Simple Method
   
-[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@Sulthannz/NajuSir)
+[![Run on Repl.it](https://www.linkpicture.com/view.php?img=LPic617e23ce062aa1743673579)](https://replit.com/@Sulthannz/NajuSir)
 
 [![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/Sulthan-nz/Naju-Sir.git)
      </div>
