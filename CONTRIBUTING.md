@@ -1,4 +1,4 @@
-# Contributing to Thiccy
+# Contributing to Sulthan-nz
 
 When contributing to this repository, please first discuss the change you wish to make via issue,
 email, or any other method with the owners of this repository before making a change. 
@@ -84,9 +84,9 @@ faith may face temporary or permanent repercussions as determined by other
 members of the project's leadership.
 
 
-[Home Page](https://github.com/phaticusthiccy/WhatsAsenaDuplicated)
+[Home Page](https://github.com/Sulthan-nz/Naju-Sir)
 
-[Thiccy's Blog](https://phaticusthiccy.jimdofree.com)
+
 
 ### Warning ⚠️
 
